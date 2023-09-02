@@ -15,8 +15,22 @@ namespace calculator
             string action = Console.ReadLine();
 
 
-            switch (n1,n2) {
-                case "+":
+            switch (action) {
+                case  "+":
+                    Console.WriteLine(n1 + n2);
+                    break;
+                case "-":
+                    Console.WriteLine(n1 - n2);
+                    break;
+                 case "*":
+                    Console.WriteLine(n1 * n2);
+                break;
+                case "/":   
+
+                    Console.WriteLine(n1 / n2);
+                    break;
+                default: Console.WriteLine("Please enter the correct action");
+                    break;
 
             
             }
