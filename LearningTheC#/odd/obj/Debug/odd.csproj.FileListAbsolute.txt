@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\LearningTheC#\odd\bin\Debug\odd.exe.config
+C:\Users\User\Desktop\LearningTheC#\odd\bin\Debug\odd.exe
+C:\Users\User\Desktop\LearningTheC#\odd\bin\Debug\odd.pdb
+C:\Users\User\Desktop\LearningTheC#\odd\obj\Debug\odd.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LearningTheC#\odd\obj\Debug\odd.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\LearningTheC#\odd\obj\Debug\odd.Properties.Resources.resources
+C:\Users\User\Desktop\LearningTheC#\odd\obj\Debug\odd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LearningTheC#\odd\obj\Debug\odd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LearningTheC#\odd\obj\Debug\odd.exe
+C:\Users\User\Desktop\LearningTheC#\odd\obj\Debug\odd.pdb
